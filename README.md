@@ -1,7 +1,7 @@
 # Happy Birthday
 
-Website - [Happy Birthday](https://rishabh04-02.github.io/happy-birthday/)
+Website - [Happy Birthday](https://code-intensive.github.io/code-intensive.github.io-happy-birthday-ayoscripts/)
 
 An easy to deploy, Happy Birthday animation design TEMPLATE.
 
-View Deployments [here](https://github.com/Rishabh04-02/happy-birthday/deployments)
+View Deployments [here](https://code-intensive.github.io/code-intensive.github.io-happy-birthday-ayoscripts/deployments/)

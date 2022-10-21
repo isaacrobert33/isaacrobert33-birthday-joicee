@@ -17,8 +17,6 @@ $('document').ready(function(){
 		});
 
 	$('#turn_on').click(function(){
-		var introHype = $('.intro')[0];
-        introHype.play();
 		$('#bulb_yellow').addClass('bulb-glow-yellow');
 		$('#bulb_red').addClass('bulb-glow-red');
 		$('#bulb_blue').addClass('bulb-glow-blue');
